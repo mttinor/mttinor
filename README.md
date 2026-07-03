@@ -1,144 +1,71 @@
-# Mehdi
+<div align="center">
 
-## Frontend Engineer | Angular • React • TypeScript
-Building scalable web applications with clean architecture and modern frontend technologies.
+# 👋 Hi, I'm Mehdi
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=850&lines=Frontend+Engineer;Angular+%7C+React+%7C+TypeScript;Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Architecture;Always+Learning+Something+New" alt="Typing SVG" />
 
-## 👋 About Me
+### Frontend Engineer passionate about building modern, scalable, and high-quality web applications.
 
-I'm a Frontend Engineer with experience building enterprise web applications using Angular, React, TypeScript, and modern JavaScript.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mttinor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mttinor76@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1Qc0slUdi3Plfmj3pmJthtbsKq87-xJoc/view"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-My long-term goal is to become a Tech Lead and Full-Stack Engineer while expanding my expertise in backend development, cloud technologies, system design, and AI-powered applications.
-
-I enjoy solving complex technical problems, improving application architecture, mentoring through documentation, and continuously learning new technologies.
-
-Currently, I'm focused on:
-
-- Frontend Architecture
-- Clean Code & Design Patterns
-- Micro-Frontend Architecture
-- Node.js & NestJS
-- System Design
-- AI Integration
-- Technical Leadership
-- English communication for international teams
-- Preparing for international Frontend interviews
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
+
+I'm a Frontend Engineer passionate about building fast, scalable, and maintainable web applications.
+
+I enjoy transforming ideas into intuitive user experiences, writing clean code, improving application performance, and continuously learning modern technologies.
+
+---
+
+## 💻 Tech Stack
 
 ### Frontend
 
-- Angular
-- React
-- TypeScript
-- JavaScript (ES6+)
-- RxJS
-- HTML5
-- CSS3
-- SCSS
-- Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,sass,tailwind,vite" />
+</p>
 
 ### Backend
 
-- Node.js
-- NestJS
-- Express
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
 
-### Database
+### Databases
 
-- PostgreSQL
-- MongoDB
-- Redis
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
 
-### DevOps
+### DevOps & Tools
 
-- Docker
-- Docker Compose
-- Git
-- GitHub
-- GitLab
-
-### Architecture
-
-- Clean Architecture
-- SOLID Principles
-- Design Patterns
-- Micro-Frontend
-- Monorepo
-- Modular Architecture
-
-### Tools
-
-- VS Code
-- Postman
-- Figma
-- Linux
-- Jira
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode,postman,figma" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
-- Advanced JavaScript
-- React Performance Optimization
-- Angular Architecture
-- NestJS
-- System Design
-- Kubernetes
-- AWS
-- CI/CD
-- AI Application Development
-- Technical Leadership
+- 🧠 System Design
+- 🏗️ Software Architecture
+- ⚡ Frontend Performance Optimization
+- ☁️ Cloud Technologies
+- 🤖 AI-Powered Web Applications
 
 ---
 
-## 🎯 Career Goals
+<div align="center">
 
-- Become a Senior Frontend Engineer
-- Become a Tech Lead
-- Grow into a Full-Stack Engineer
-- Build AI-powered SaaS products
-- Work in international engineering teams
-- Relocate to a country with strong engineering opportunities and quality of life
+### Thanks for visiting my profile! ⭐
 
----
+_"Code is more than syntax—it's about solving real problems and creating meaningful experiences."_
 
-## 💡 Interests
-
-- Frontend Engineering
-- Software Architecture
-- Artificial Intelligence
-- Developer Productivity
-- Open Source
-- Performance Optimization
-- Clean Code
-- Leadership
-
----
-
-## 🌱 Daily Improvement
-
-Every day I dedicate time to:
-
-- Solving coding interview problems
-- Improving my English
-- Learning system design
-- Reading engineering articles
-- Building side projects
-- Studying AI technologies
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
-
----
-
-> "Continuous improvement is better than delayed perfection."
+</div>
