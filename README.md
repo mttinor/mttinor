@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mehdi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=850&lines=Frontend+Engineer;Angular+%7C+React+%7C+TypeScript;Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Architecture;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=850&lines=Frontend+Engineer;React+%7C+TypeScript;Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Architecture;Always+Learning+Something+New" alt="Typing SVG" />
 
 ### Frontend Engineer passionate about building modern, scalable, and high-quality web applications.
 
@@ -29,7 +29,7 @@ I enjoy transforming ideas into intuitive user experiences, writing clean code, 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,sass,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,vite" />
 </p>
 
 ### Backend
